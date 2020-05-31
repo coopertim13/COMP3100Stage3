@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- system information generated for ds-sim@MQ, 6-Mar, 2020 @ MQ -->
+<system>
+	<servers>
+		<server type="cooper" limit="20" bootupTime="22" rate="0.10" coreCount="12" memory="32000" disk="256000" />
+		<server type="avi" limit="10" bootupTime="35" rate="0.60" coreCount="8" memory="4000" disk="16000" />
+		<server type="tom" limit="15" bootupTime="20" rate="0.40" coreCount="3" memory="11000" disk="44000" />
+		<server type="karen" limit="20" bootupTime="0" rate="0.80" coreCount="8" memory="4500" disk="18000" />
+	</servers>
+</system>
